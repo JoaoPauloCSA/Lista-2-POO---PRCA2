@@ -1,0 +1,11 @@
+C:\Users\aluno\Desktop\lista 2\lista 2\lista 2\bin\Debug\lista 2.exe.config
+C:\Users\aluno\Desktop\lista 2\lista 2\lista 2\bin\Debug\lista 2.exe
+C:\Users\aluno\Desktop\lista 2\lista 2\lista 2\bin\Debug\lista 2.pdb
+C:\Users\aluno\Desktop\lista 2\lista 2\lista 2\obj\Debug\lista 2.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\lista 2\lista 2\lista 2\obj\Debug\lista 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\lista 2\lista 2\lista 2\obj\Debug\lista_2.Form1.resources
+C:\Users\aluno\Desktop\lista 2\lista 2\lista 2\obj\Debug\lista_2.Properties.Resources.resources
+C:\Users\aluno\Desktop\lista 2\lista 2\lista 2\obj\Debug\lista 2.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\lista 2\lista 2\lista 2\obj\Debug\lista 2.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\lista 2\lista 2\lista 2\obj\Debug\lista 2.exe
+C:\Users\aluno\Desktop\lista 2\lista 2\lista 2\obj\Debug\lista 2.pdb
