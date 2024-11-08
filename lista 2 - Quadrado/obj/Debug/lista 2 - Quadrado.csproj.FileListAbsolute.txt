@@ -1,0 +1,11 @@
+C:\Users\aluno\Desktop\lista 2\lista 2 - Quadrado\lista 2 - Quadrado\bin\Debug\lista 2 - Quadrado.exe.config
+C:\Users\aluno\Desktop\lista 2\lista 2 - Quadrado\lista 2 - Quadrado\bin\Debug\lista 2 - Quadrado.exe
+C:\Users\aluno\Desktop\lista 2\lista 2 - Quadrado\lista 2 - Quadrado\bin\Debug\lista 2 - Quadrado.pdb
+C:\Users\aluno\Desktop\lista 2\lista 2 - Quadrado\lista 2 - Quadrado\obj\Debug\lista 2 - Quadrado.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\lista 2\lista 2 - Quadrado\lista 2 - Quadrado\obj\Debug\lista 2 - Quadrado.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\lista 2\lista 2 - Quadrado\lista 2 - Quadrado\obj\Debug\lista_2___Quadrado.Form1.resources
+C:\Users\aluno\Desktop\lista 2\lista 2 - Quadrado\lista 2 - Quadrado\obj\Debug\lista_2___Quadrado.Properties.Resources.resources
+C:\Users\aluno\Desktop\lista 2\lista 2 - Quadrado\lista 2 - Quadrado\obj\Debug\lista 2 - Quadrado.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\lista 2\lista 2 - Quadrado\lista 2 - Quadrado\obj\Debug\lista 2 - Quadrado.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\lista 2\lista 2 - Quadrado\lista 2 - Quadrado\obj\Debug\lista 2 - Quadrado.exe
+C:\Users\aluno\Desktop\lista 2\lista 2 - Quadrado\lista 2 - Quadrado\obj\Debug\lista 2 - Quadrado.pdb
