@@ -1,0 +1,10 @@
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO4\obj\Debug\WFAPOO4.csproj.AssemblyReference.cache
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO4\obj\Debug\WFAPOO4.Form1.resources
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO4\obj\Debug\WFAPOO4.Properties.Resources.resources
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO4\obj\Debug\WFAPOO4.csproj.GenerateResource.cache
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO4\obj\Debug\WFAPOO4.csproj.CoreCompileInputs.cache
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO4\bin\Debug\WFAPOO4.exe.config
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO4\bin\Debug\WFAPOO4.exe
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO4\bin\Debug\WFAPOO4.pdb
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO4\obj\Debug\WFAPOO4.exe
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO4\obj\Debug\WFAPOO4.pdb
