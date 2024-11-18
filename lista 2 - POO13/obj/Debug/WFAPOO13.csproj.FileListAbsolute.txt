@@ -1,0 +1,10 @@
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO13\bin\Debug\WFAPOO13.exe.config
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO13\bin\Debug\WFAPOO13.exe
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO13\bin\Debug\WFAPOO13.pdb
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO13\obj\Debug\WFAPOO13.csproj.AssemblyReference.cache
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO13\obj\Debug\WFAPOO13.Form1.resources
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO13\obj\Debug\WFAPOO13.Properties.Resources.resources
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO13\obj\Debug\WFAPOO13.csproj.GenerateResource.cache
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO13\obj\Debug\WFAPOO13.csproj.CoreCompileInputs.cache
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO13\obj\Debug\WFAPOO13.exe
+C:\Users\Sandr\OneDrive - ifsp.edu.br\Documentos\Atividades IFSP\2º Módulo\PRCA2\WindowsFormsApp\WFAPOO13\obj\Debug\WFAPOO13.pdb
